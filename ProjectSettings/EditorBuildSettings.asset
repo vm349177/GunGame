@@ -6,6 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+<<<<<<< HEAD
     path: Assets/Scenes/Varun.unity
+=======
+    path: Assets/Scenes/Anunay.unity
+>>>>>>> 13fbf7c64d0d5d86b47cd5b2621da7c7335f086c
     guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects: {}
